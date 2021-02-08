@@ -1,5 +1,6 @@
 export interface IVideoWpProps {
   description: string;
 }
-export interface IVideoWpStates
-{isFlipped:any}
+export interface IVideoWpStates {
+  isFlipped: any;
+}

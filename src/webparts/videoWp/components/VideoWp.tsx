@@ -7,7 +7,7 @@ const imageAltTags = {
   molly: 'Portrait of Molly',
   nan: 'Portrait of Nan',
 };
-const x="https://fluentsite.z22.web.core.windows.net/public/images/avatar/large/ade.jpg"
+const x="https://fluentsite.z22.web.core.windows.net/public/images/avatar/large/ade.jpg";
 const carouselItems = [
   {
     key: 'ade',

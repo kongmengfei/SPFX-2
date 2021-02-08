@@ -1,5 +1,5 @@
 export interface ISPListFeatureVideoItem{
-    Title:string,
-    URL:string,
-    Description:string,
+    Title:string;
+    URL:string;
+    Description:string;
   }
